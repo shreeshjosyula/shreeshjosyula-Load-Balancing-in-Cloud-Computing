@@ -1,0 +1,2 @@
+# shreeshjosyula-Load-Balancing-in-Cloud-Computing
+We know that Load Balancing and Task Allocation play a major role in distributed systems and cloud computing. Cloud load balancing is the process of distributing workloads across multiple computing resources. Cloud load balancing reduces costs associated with document management systems and maximizes availability of resources. In this project we will be showing Load Balancing on AWS using a system that balances load between 3 docker containers.
